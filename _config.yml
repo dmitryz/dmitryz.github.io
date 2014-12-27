@@ -1,0 +1,20 @@
+# Where things are
+auto:  true
+server:  false
+server_port:  4000
+baseurl:  /
+destination:  ./_site
+plugins:  ./_plugins
+source:  .
+url:  http://dmitryz.github.io
+# Filtering Content
+future:  true
+show_drafts: null
+# Conversion
+markdown:  kramdown
+# Handling Reading
+encoding:  "utf-8"
+markdown_ext:  "markdown,mkdown,mkdn,mkd,md"
+safe:  false
+# Outputting
+permalink:  date
