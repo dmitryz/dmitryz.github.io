@@ -2,7 +2,7 @@
 auto:  true
 server:  false
 server_port:  4000
-baseurl:  http://fishtest.me/blog/
+baseurl:  http://fishtest.me
 destination:  ./_site
 plugins:  ./_plugins
 source:  .
