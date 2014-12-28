@@ -2,11 +2,11 @@
 auto:  true
 server:  false
 server_port:  4000
-baseurl:  /
+baseurl:  /blog/
 destination:  ./_site
 plugins:  ./_plugins
 source:  .
-url:  http://dmitryz.github.io
+url:  http://fishtest.me
 # Filtering Content
 future:  true
 show_drafts: null
